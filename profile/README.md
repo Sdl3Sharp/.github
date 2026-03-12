@@ -1,6 +1,6 @@
 # SDL3#
 
-![SDL3# Banner](https://github.com/fruediger/Sdl3Sharp-assets/blob/main/banner.png)
+![SDL3# Banner](https://raw.githubusercontent.com/Sdl3Sharp/Sdl3Sharp-assets/main/banner.png)
 
 ## About
 
